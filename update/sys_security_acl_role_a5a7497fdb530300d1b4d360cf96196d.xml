@@ -4,13 +4,11 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-03 12:28:10</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>a5a7497fdb530300d1b4d360cf96196d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_114491_test_appl_test_fullilment.x_114491_test_appl.test_fullilment_user</sys_name>
         <sys_package display_value="test_application" source="x_114491_test_appl">8c90dfe0db030300d1b4d360cf961962</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_application">8c90dfe0db030300d1b4d360cf961962</sys_scope>
         <sys_security_acl display_value="x_114491_test_appl_test_fullilment">a9a7497fdb530300d1b4d360cf96196a</sys_security_acl>
         <sys_update_name>sys_security_acl_role_a5a7497fdb530300d1b4d360cf96196d</sys_update_name>

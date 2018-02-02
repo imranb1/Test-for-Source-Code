@@ -3,5 +3,8 @@
     <element extends="task" label="imran" max_length="40" name="x_114491_test_appl_imran" type="collection">
         <element label="imran" max_length="40" name="imran" type="string"/>
         <element label="imran 2" max_length="40" name="imran_2" type="string"/>
+        <element choice="1" label="imran 4" max_length="40" name="imran_4" type="choice">
+            <choice/>
+        </element>
     </element>
 </database>

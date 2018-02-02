@@ -12,13 +12,11 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-02 10:16:49</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>1a498b59db881300d1b4d360cf9619ac</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_114491_test_appl_imran</sys_name>
         <sys_package display_value="test_application" source="x_114491_test_appl">8c90dfe0db030300d1b4d360cf961962</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test_application">8c90dfe0db030300d1b4d360cf961962</sys_scope>
         <sys_update_name>sys_security_acl_1a498b59db881300d1b4d360cf9619ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
