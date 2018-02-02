@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_archive">
+    <sys_archive action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_114491_test_appl_test_fullilment">sys_updated_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="false" field="sys_updated_on" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <estimate_date>2018-02-02 10:00:04</estimate_date>
+        <last_run_date>2018-02-02 10:00:04</last_run_date>
+        <name>test</name>
+        <next_run_date>2018-02-02 11:00:00</next_run_date>
+        <parent/>
+        <record_estimate>0</record_estimate>
+        <sys_class_name>sys_archive</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 12:23:20</sys_created_on>
+        <sys_id>9946be99db630300d1b4d360cf9619d6</sys_id>
+        <sys_mod_count>133</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="test_application" source="x_114491_test_appl">8c90dfe0db030300d1b4d360cf961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_application">8c90dfe0db030300d1b4d360cf961962</sys_scope>
+        <sys_update_name>sys_archive_9946be99db630300d1b4d360cf9619d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-02 10:00:04</sys_updated_on>
+        <table>x_114491_test_appl_test_fullilment</table>
+        <total>0</total>
+    </sys_archive>
+</record_update>
