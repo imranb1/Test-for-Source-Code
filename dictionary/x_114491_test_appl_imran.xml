@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="imran" max_length="40" name="x_114491_test_appl_imran" type="collection">
+        <element label="imran" max_length="40" name="imran" type="string"/>
+    </element>
+</database>
